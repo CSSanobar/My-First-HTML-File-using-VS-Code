@@ -1,3 +1,3 @@
 # My-First-HTML-File-using-VS-Code
 This is my first repository for HTML file using VS Code 
-Author Sanobar Khwaja Moinuddin Syed
+<br>Author Sanobar Khwaja Moinuddin Syed
